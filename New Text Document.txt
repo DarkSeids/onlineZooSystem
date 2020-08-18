@@ -1,0 +1,4 @@
+create database "claybrook_zoo" and import sql file
+
+admin username - raqeeb
+admin password - snuff1231
