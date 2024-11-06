@@ -19,7 +19,7 @@
 
        </div>
        <div style="col-md-4">
-         <h4 style="color: #910606">See Our Whole Catalog</h4>
+         <h4 style="color: #910606">See Our all and all Catalog</h4>
 
 
          <li>
